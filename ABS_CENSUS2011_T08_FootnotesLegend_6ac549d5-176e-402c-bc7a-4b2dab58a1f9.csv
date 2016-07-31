@@ -1,0 +1,15 @@
+Legend/Légende
+Code,English description,Description française
+n,not available for publication but included in totals where applicable, unless otherwise indicated,not available for publication but included in totals where applicable, unless otherwise indicated
+o,nil or rounded to zero, including null cells,nil or rounded to zero, including null cells
+p,preliminary figure or series subject to revision,preliminary figure or series subject to revision
+q,not available,not available
+r,revised,revised
+s,not currently available due to break in time series,not currently available due to break in time series
+t,not yet available,not yet available
+u,not applicable,not applicable
+v,not available for publication but included in totals where applicable, unless otherwise indicated,not available for publication but included in totals where applicable, unless otherwise indicated
+w,estimate is subject to sampling variability too high for most practical purposes,estimate is subject to sampling variability too high for most practical purposes
+x,estimate has a relative standard error of 10% to less than 25% and should be used with caution,estimate has a relative standard error of 10% to less than 25% and should be used with caution
+y,estimate has a relative standard error between 25% and 50% and should be used with caution,estimate has a relative standard error between 25% and 50% and should be used with caution
+z,estimate has a relative standard error greater than 50% and is considered too unreliable for general use,estimate has a relative standard error greater than 50% and is considered too unreliable for general use
